@@ -191,3 +191,6 @@ This project demonstrates a fully automated and production-like 2-Tier AWS archi
 It shows how to manage networking, compute, routing, and security using Infrastructure as Code.
 
 This setup is scalable, secure, and forms the foundation of most cloud-native architectures.
+
+## Author
+Pooja Jadhav
