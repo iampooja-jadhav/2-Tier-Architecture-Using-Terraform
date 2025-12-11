@@ -154,6 +154,9 @@ After deployment Terraform will show:
 ## 6. Internet Gateway
 ![](./img/Internet-gateway%20.png)
 
+## 7. S3 Bucket
+![](./img/S3%20bucket.png)
+
 ## Real-World Use Case
 
 This 2-tier architecture is used by companies for:
